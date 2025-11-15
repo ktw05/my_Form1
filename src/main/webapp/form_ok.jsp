@@ -9,7 +9,7 @@
 <body class="bg-light">
 
 <div class="container my-5 p-4 bg-white shadow-sm rounded" style="max-width: 600px;">
-  <h2 class="text-success border-bottom pb-2 mb-4 text-center">회원 정보 수신 성공 🎉</h2>
+  <h2 class="text-success border-bottom pb-2 mb-4 text-center">회원 정보 수신 성공</h2>
 
   <div class="alert alert-success text-center" role="alert">
     <h4 class="alert-heading">데이터 수신 성공!</h4>
