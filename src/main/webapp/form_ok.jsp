@@ -9,11 +9,11 @@
 <body class="bg-light">
 
 <div class="container my-5 p-4 bg-white shadow-sm rounded" style="max-width: 600px;">
-  <h2 class="text-success border-bottom pb-2 mb-4 text-center">데이터 수신 성공 🎉</h2>
+  <h2 class="text-success border-bottom pb-2 mb-4 text-center">회원 정보 수신 성공 🎉</h2>
 
   <div class="alert alert-success text-center" role="alert">
-    <h4 class="alert-heading">환영합니다!</h4>
-    <p>회원가입 폼으로부터 데이터가 성공적으로 수신되었습니다. (실제 DB 저장 로직은 생략)</p>
+    <h4 class="alert-heading">데이터 수신 성공!</h4>
+    <p>사용자 등록 폼으로부터 데이터가 성공적으로 수신되었습니다.</p>
   </div>
 
   <div class="p-3 border rounded bg-light my-4">
@@ -26,7 +26,7 @@
   </div>
 
   <div class="text-center mt-4">
-    <a href="list.jsp" class="btn btn-primary">게시판으로 돌아가기</a>
+    <a href="form.html" class="btn btn-primary">다시 등록하기</a>
   </div>
 </div>
 </body>
